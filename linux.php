@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Thanks to vimalsir</h1>
 
 <?php
-echo "Hello World!";
+echo "from mlops students!";
 ?>
 
 </body>
